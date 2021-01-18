@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <title>Buscar Imagen</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="content">
+        <div  class="mx-4 py-4 px-6"><h1>Producto</h1></div>
+        
+        <div id="res" class = "malla mx-4 py-4 px-6">
+            
+            <div class="item card  mx-4 py-4 px-6"  style="width: 28rem;">
+                <img clase="image img-fluid" src="https://farmanet2.github.io/catalogo/images/104.jpg" class="card-img-top" alt=".product">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="#" id = "boton" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script type=javascript>
+        var obj = JSON.parse(productos.json);
+        console.log(obj);
+        
+    </script>
+    <script src="ajax2.js"></script>
+    <script src="productos.json"></script>
+    <scrip src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></scrip>
+</body>
+</html>

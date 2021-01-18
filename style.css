@@ -1,0 +1,15 @@
+.item {
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
+  grid-template-rows: 500px 500px;
+  grid-gap: 1rem;
+  float: left;
+}
+.item img {
+  width: 400px;
+  height: 100px;
+  border: 2px solid #fff;
+}
+.item img.image {
+  object-fit: scale-down;
+}

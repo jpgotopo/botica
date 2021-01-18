@@ -1,0 +1,58 @@
+[
+    {
+      "COD": 104,
+      "DESCRIPCION": "3 GEL SUSP. ORAL CAJA X 20",
+      "UNID": "CAJ",
+      "PRECIO": "S/. 22.00",
+      "DIR_FOTO": 0,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/104.jpg"
+    },
+    {
+      "COD": 2019,
+      "DESCRIPCION": "ACIDINO X 60 TAB",
+      "UNID": "CAJ",
+      "PRECIO": "S/. 45.00",
+      "DIR_FOTO": 2019,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/2019.jpg"
+    },
+    {
+      "COD": 143,
+      "DESCRIPCION": "ALERFREE-C 10MG X 100 CAPS BLANDAS",
+      "UNID": "CAJ",
+      "PRECIO": "S/. 38.00",
+      "DIR_FOTO": 2151,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/143.jpg"
+    },
+    {
+      "COD": 783,
+      "DESCRIPCION": "ATOS EXPECT. SOL ORAL X 120ML",
+      "UNID": "JAR",
+      "PRECIO": "S/. 8.50",
+      "DIR_FOTO": 1571,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/783.jpg"
+    },
+    {
+      "COD": 949,
+      "DESCRIPCION": "AZO BACCIDAL CJA X 100 TAB",
+      "UNID": "CAJ",
+      "PRECIO": "S/. 60.00",
+      "DIR_FOTO": 949,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/949.jpg"
+    },
+    {
+      "COD": 1801,
+      "DESCRIPCION": "BRONCO EXPECT SUSP X 60 ML",
+      "UNID": "SUS",
+      "PRECIO": "S/. 9.50",
+      "DIR_FOTO": 1801,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/1801.jpg"
+    },
+    {
+      "COD": 2628,
+      "DESCRIPCION": "DOLOPRESS FORTE X 200 TAB",
+      "UNID": "CAJ",
+      "PRECIO": "S/. 33.00",
+      "DIR_FOTO": 957,
+      "FOTO": "https://farmanet2.github.io/catalogo/images/2628.jpg"
+    }
+  ]
